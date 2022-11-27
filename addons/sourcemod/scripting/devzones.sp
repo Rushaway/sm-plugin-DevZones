@@ -19,8 +19,6 @@
 #include <sourcemod>
 #include <sdktools>
 
-
-#define VERSION "4.0.3"
 #pragma newdecls required
 
 #define MAX_ZONES 256
@@ -79,7 +77,7 @@ public Plugin myinfo =
 	name = "SM DEV Zones",
 	author = "Franc1sco, root, Totenfluch",
 	description = "Adds Custom Zones",
-	version = VERSION,
+	version = "4.0.3",
 	url = "https://github.com/Franc1sco/DevZones"
 };
 
